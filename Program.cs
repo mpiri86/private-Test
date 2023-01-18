@@ -6,6 +6,7 @@ using System.Windows.Forms;
 //change on github
 namespace CentralInsuranceCargoPolicyTest
 {
+
     static class Program
     {
         /// <summary>
