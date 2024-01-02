@@ -12,5 +12,7 @@ namespace Api_Integrated_Test
 {
     public class ApiaddTest
     {
+
+        public int firstissue;
     }
 }
