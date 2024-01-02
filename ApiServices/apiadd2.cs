@@ -14,5 +14,8 @@ namespace Api_Integrated_Test
     {
 
         public int firstissue;
+        public int firstissue2;
+
+
     }
 }
